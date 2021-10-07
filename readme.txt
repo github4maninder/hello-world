@@ -12,3 +12,5 @@ And, here's a change after the initial commit.
 ## branching sample
   created a branch feature-readme-instructions
    branching sample practice
+
+// quick test notes
